@@ -1,0 +1,29 @@
+{
+  "name": "yaml-env-settings",
+  "version": "1.0.0",
+  "description": "load config from yml file with ENV params replacment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh84/node-yaml-env-settings.git"
+  },
+  "keywords": [
+    "config",
+    "yml",
+    "yaml",
+    "settings",
+    "ENV"
+  ],
+  "author": "sh84",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sh84/node-yaml-env-settings/issues"
+  },
+  "homepage": "https://github.com/sh84/node-yaml-env-settings#readme",
+  "dependencies": {
+    "yaml": "^1.0.0-rc.7"
+  }
+}
