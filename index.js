@@ -1,6 +1,6 @@
 'use strict';
 
-const YAML = require('yaml').default;
+const YAML = require('yaml');
 const fs = require('fs');
 let settings = {};
 
