@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/sh84/node-yaml-env-settings#readme",
   "dependencies": {
-    "yaml": "^1.0.0-rc.7"
+    "yaml": "^1.6.0"
   }
 }
